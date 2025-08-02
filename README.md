@@ -4,11 +4,11 @@ A modern, responsive portfolio website showcasing full-stack development experti
 
 ## 🚀 Live Demo
 
-Visit the live portfolio: [Your Portfolio URL]
+Visit the live portfolio: [abrarul.toufikhasan.com](http://abrarul.toufikhasan.com/)
 
 ## 📋 Table of Contents
 
-- [About](#about)
+- [About](http://abrarul.toufikhasan.com/#about)
 - [Features](#features)
 - [Technologies Used](#technologies-used)
 - [Project Structure](#project-structure)
